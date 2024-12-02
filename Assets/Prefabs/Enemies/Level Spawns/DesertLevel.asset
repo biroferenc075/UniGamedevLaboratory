@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 667f0a35ae64e2b48b92f66bb10d6e7b, type: 3}
+  m_Name: DesertLevel
+  m_EditorClassIdentifier: 
+  waves:
+  - startTime: 5
+    repeat: 0
+    repeatDelay: 0
+    wavePrefabIdx: 2
+  - startTime: 15
+    repeat: 0
+    repeatDelay: 0
+    wavePrefabIdx: 0
+  - startTime: 24
+    repeat: 0
+    repeatDelay: 0
+    wavePrefabIdx: 3
+  - startTime: 30
+    repeat: 0
+    repeatDelay: 0
+    wavePrefabIdx: 4
+  - startTime: 38
+    repeat: 0
+    repeatDelay: 0
+    wavePrefabIdx: 4
+  - startTime: 44
+    repeat: 0
+    repeatDelay: 0
+    wavePrefabIdx: 0
+  - startTime: 52
+    repeat: 0
+    repeatDelay: 0
+    wavePrefabIdx: 4
+  - startTime: 58
+    repeat: 0
+    repeatDelay: 0
+    wavePrefabIdx: 2
+  - startTime: 64
+    repeat: 0
+    repeatDelay: 0
+    wavePrefabIdx: 3
+  - startTime: 68
+    repeat: 0
+    repeatDelay: 0
+    wavePrefabIdx: 2
+  - startTime: 72
+    repeat: 0
+    repeatDelay: 0
+    wavePrefabIdx: 0
+  - startTime: 80
+    repeat: 0
+    repeatDelay: 0
+    wavePrefabIdx: 5
